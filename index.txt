@@ -1,0 +1,24 @@
+# landing page<br>pour le site [%domain%](%origin%)
+
+
+<!-- ##Union: [Votre voix, notre voie]({{DUCK}}=votre+voix,+notre+voie) -->
+<img alt="[globe]" width=30% src=//cloudflare-ipfs.com/ipfs/QmQYvaaWFdmpMg685vGSKD5wVyPZEx86cnjsQY4uL1qmpP/globe-display.png>
+<img alt="UNION: Votre voix, notre voie" width=60% src=//cloudflare-ipfs.com/ipfs/QmQYvaaWFdmpMg685vGSKD5wVyPZEx86cnjsQY4uL1qmpP/U-Nion_logo.png>
+
+
+Un [média de référence][1], une chaîne de télévision - [site][2] internet - une application mobile, à la pointe de la technologie, guide par des valeurs éthiques fondamentales.
+
+en savoir plus : voir le [framapad][3] & ([netlify][4]).
+
+## [trusting-davinci-ad78d0 ](https://trusting-davinci-ad78d0.netlify.com/)
+
+hash: [#%hash%]({{DUCK}}=%23%hash%)
+
+--&nbsp;<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/23e48665-4573-434b-8180-1e1d97c3b1f8/deploy-status)](https://app.netlify.com/sites/trusting-davinci-ad78d0/deploys)
+
+
+[1]: {{DUCK}}=UNION:+media+de+reference
+[2]: {{DUCK}}=U-NION+%22votre+voix,+notre+voie%22
+[3]: {{DUCK}}=frama.htm
+[4]: https://trusting-davinci-ad78d0.neltify.com

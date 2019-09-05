@@ -1,0 +1,18 @@
+# Bientôt sur le net,<br>le site [%domain%](%origin%)
+
+![Union Logo](//cloudflare-ipfs.com/ipfs/QmdHktg5mQrux5eWbZ79e76wK1x4apiSfCTzFXGim12xeX/logo.png)
+
+##Union: [Votre voix, notre voie]({{DUCK}}=votre+voix,+notre+voie)
+
+
+Un [média de référence][1],
+
+- une chaîne de télévision 
+- site internet
+- une application mobile,
+
+<br>à la pointe de la technologie, guide par des valeurs éthiques fondamentales.
+
+pour en connaître plus long : voir le [framapad](frama.htm)
+
+[1]: {{DUCK}}=UNION:+media+de+reference

@@ -1,0 +1,12 @@
+# log of "remarkable admin command run on this repository... (for documentation purpose!)
+
+get init .
+git config user.name "Michel G. Combes"; 
+git config user.email "michelcombes@advancementofcivilizationeffort.org";
+git add *.htm *.txt img/*.jpg assets/*.png CNAME *.log publish.sh
+git status
+git commit
+git remote add origin https://github.com/michel47/u-nion.ml
+git branch --set-upstream-to=origin/master master:w
+
+git push -u origin master
