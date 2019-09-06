@@ -1,4 +1,4 @@
-# log of "remarkable admin command run on this repository... (for documentation purpose!)
+# log of "remarkable" admin commands ran on this repository... (for documentation purpose!)
 
 get init .
 git config user.name "Michel G. Combes"; 
@@ -8,5 +8,4 @@ git status
 git commit
 git remote add origin https://github.com/michel47/u-nion.ml
 git branch --set-upstream-to=origin/master master:w
-
 git push -u origin master
