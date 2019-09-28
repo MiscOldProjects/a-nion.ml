@@ -8,7 +8,7 @@
 
 Un [média de référence][1], une chaîne de télévision - [site][2] internet - une application mobile, à la pointe de la technologie, guide par des valeurs éthiques fondamentales.
 
-en savoir plus : voir le [framapad][3] & ([netlify][4]).
+en savoir plus : voir le [framapad][3], [github](https://git.io/fjjlc) & ([netlify][4]).
 
 ## [trusting-davinci-ad78d0 ](https://trusting-davinci-ad78d0.netlify.com/)
 
@@ -22,3 +22,7 @@ hash: [#%hash%]({{DUCK}}=%23%hash%)
 [2]: {{DUCK}}=U-NION+%22votre+voix,+notre+voie%22
 [3]: {{DUCK}}=frama.htm
 [4]: https://trusting-davinci-ad78d0.neltify.com
+
+[gilles]: https://gd2c.ch/U-Nion
+[indiana]: https://fastmedic.ch
+[michel]: https://participetv.ml
